@@ -1,0 +1,37 @@
+.box {
+  background-color: blue;
+  height: 150px;
+  width: 200px;
+}
+
+.button {
+  width: 25%;
+  text-transform: uppercase;
+  background-color: #40b48e;
+  color: #fff;
+}
+
+.h4 {
+  font-size: 20px;
+  letter-spacing: 0.1rem;
+  font-style: italic;
+  color: #40b48e;
+  text-shadow: 0 0.2rem 5rem rgb(119, 115, 115);
+  text-transform: uppercase;
+  margin: 4rem 0;
+}
+
+.country {
+  width: 90%;
+
+  align-items: center;
+
+  justify-content: center;
+}
+
+.align-center {
+  width: 90%;
+  align-items: center;
+
+  justify-content: center;
+}
